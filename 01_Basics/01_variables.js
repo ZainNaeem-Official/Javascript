@@ -1,7 +1,9 @@
 const accountId = 976969;
 let accountEmail = "zain@google.com";
 var accountPassword = "123";
-let accountState; 
+let accountState ; 
+console.log(typeof accountState);
+
 accountCity = "islamabad"; // bad practice 
 
 
@@ -20,8 +22,7 @@ console.table([accountId,accountEmail,accountPassword,accountCity,accountState])
 ************** IMPORTANT QUESTIONS ************
 1. Constant ko redeclare kar sakty hn?
 2. bina type ky variable declare karna kasa ha?  
-3. let accountState = ""  ya undefine ha??
+3. let accountState = ""  is ki typeof kaya ho ga? Undefined or string? 
 4. Var use kue nhi kar sakty?
-
 */
 
