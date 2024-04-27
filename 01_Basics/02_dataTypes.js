@@ -33,11 +33,3 @@ array
 
 console.log(typeof null);
 
-
-/*
-************** IMPORTANT QUESTIONS ************
-1. Null and undefine my difference explain karo.
-2. Why we use “use strict”?
-3. Data type kitny type han? Kon kon sy??
-4. Null or undefine ka typeof kaya ha??
-*/
