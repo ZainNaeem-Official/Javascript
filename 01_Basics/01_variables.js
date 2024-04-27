@@ -19,10 +19,4 @@ console.table([accountId,accountEmail,accountPassword,accountCity,accountState])
 
 /*
 
-************** IMPORTANT QUESTIONS ************
-1. Constant ko redeclare kar sakty hn?
-2. bina type ky variable declare karna kasa ha?  
-3. let accountState = ""  is ki typeof kaya ho ga? Undefined or string? 
-4. Var use kue nhi kar sakty?
-*/
 
